@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2024-08-13",
+        "type": "income",
+        "amount": 234.0,
+        "description": "dhdjsk"
+    },
+    {
+        "Sana": "2024-08-15",
+        "Turkum": "income",
+        "Miqdor": 129.0,
+        "Tavsif": "for bread"
+    },
+    {
+        "Sana": "2024-08-15",
+        "Turkum": "expense",
+        "Miqdor": 34.0,
+        "Tavsif": "for plane"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "income",
+        "Miqdor": 23.0,
+        "Tavsif": "for egg"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "expense",
+        "Miqdor": 23.0,
+        "Tavsif": "for plane"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "income",
+        "Miqdor": 221,
+        "Tavsif": "Profit from trading"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "expense",
+        "Miqdor": 185,
+        "Tavsif": "Paid for advanced course"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "income",
+        "Miqdor": 221,
+        "Tavsif": "Profit from trading"
+    },
+    {
+        "Sana": "2024-08-16",
+        "Turkum": "income",
+        "Miqdor": 221,
+        "Tavsif": "Profit from trading"
+    }
+]
